@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="halberd.png"
+   inkscape:export-xdpi="38.099998"
+   inkscape:export-ydpi="38.099998"
+   sodipodi:docname="halberd.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="266.25"
+     inkscape:cy="132.5"
+     inkscape:window-width="2560"
+     inkscape:window-height="1346"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#552200;stroke:#a1a1a1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect236"
+       width="9.1823454"
+       height="50.323593"
+       x="5.1532595e-07"
+       y="9.676405" />
+    <rect
+       style="fill:#666666;stroke:#a1a1a1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect916"
+       width="11.15301"
+       height="4.3733401"
+       x="9.0360041"
+       y="19.94173" />
+    <path
+       style="fill:#666666;stroke:#a1a1a1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path1026"
+       sodipodi:type="arc"
+       sodipodi:cx="22.128399"
+       sodipodi:cy="-20.16995"
+       sodipodi:rx="12.668214"
+       sodipodi:ry="9.8300495"
+       sodipodi:start="3.1415927"
+       sodipodi:end="6.2831853"
+       sodipodi:arc-type="slice"
+       d="M 9.4601851,-20.16995 A 12.668214,9.8300495 0 0 1 22.128399,-30 12.668214,9.8300495 0 0 1 34.796613,-20.16995 H 22.128399 Z"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#666666;stroke:#a1a1a1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1082"
+       width="4.6668181"
+       height="2.1341736"
+       x="16.839428"
+       y="9.4601851" />
+    <rect
+       style="fill:#666666;stroke:#a1a1a1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1084"
+       width="5.7087774"
+       height="2.0030973"
+       x="15.88812"
+       y="32.793514" />
+    <rect
+       style="fill:#666666;stroke:#a1a1a1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect1641"
+       width="2.5296054"
+       height="2.9407327"
+       x="3.3263719"
+       y="6.7356739" />
+    <path
+       sodipodi:type="star"
+       style="fill:#666666;stroke:#a1a1a1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path1697"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="59.287983"
+       sodipodi:cy="24.137884"
+       sodipodi:r1="4.7262387"
+       sodipodi:r2="2.3631194"
+       sodipodi:arg1="0.53739226"
+       sodipodi:arg2="1.5845898"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 63.348042,26.557234 -8.185307,-0.112911 4.190437,-7.032228 z"
+       inkscape:transform-center-x="0.035841367"
+       inkscape:transform-center-y="-1.1122419"
+       transform="matrix(1.0995182,0,0,0.96446681,-60.561205,-18.722321)" />
+  </g>
+</svg>
